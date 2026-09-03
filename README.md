@@ -100,17 +100,6 @@ A web-based collection of practical construction calculators and tools, built to
 👉 **Repository:** [RenoCalcHub Repo](https://github.com/Md-Rifat-Al-Faisal/RenoCalcHub)  
 👉 **Live:** [renocalchub.com](https://renocalchub.com)
 
----
-
-### 🤖 SudoTag
-An AI-powered desktop application that automates image metadata generation and embeds SEO-focused titles, descriptions, and keywords directly into image files.
-
-**Tech:** Electron • React • TypeScript • Node.js • Gemini API • ExifTool
-
-👉 **Repository:** [SudoTag Repo](https://github.com/Md-Rifat-Al-Faisal/SudoTag)
-
----
-
 ### 🖼️ ArtScale
 A desktop workflow automation tool for batch image upscaling, compression, dimension management, and metadata preservation.
 
