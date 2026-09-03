@@ -1,118 +1,143 @@
 <h1 align="center">Hi 👋, I'm Faisal</h1>
 
 <h3 align="center">
-CSE Student • Aspiring Full-Stack Web Developer • Building with Web, AI & Automation
+CSE Student • Web Developer in Progress • Exploring AI & Automation
 </h3>
 
 <p align="center">
-  <a href="https://github.com/Md-Rifat-Al-Faisal">
-    <img src="https://komarev.com/ghpvc/?username=Md-Rifat-Al-Faisal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  </a>
+I enjoy building things, solving problems, and understanding how software works behind the scenes.
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm **Faisal**, a Computer Science & Engineering student at **American International University-Bangladesh (AIUB)**.
-
-I enjoy understanding how things work, solving problems, and building useful software. My interest in programming grew when I started building real projects and saw how an idea could turn into a working product.
-
-Currently, I'm focused on becoming a strong **Web Developer**, while also exploring **AI, automation, and software development**.
-
-* 🎓 CSE Student at **AIUB**
-* 🌱 Currently learning **React and modern web development**
-* 🔭 Currently working on **RenoCalcHub**
-* 🧠 Interested in **problem solving, software systems, AI & automation**
-* 🛠️ I learn best by **building real projects**
-* 🚀 Long-term goal: Build technology products and start my own tech company
+- 🎓 7th Semester CSE student at American International University-Bangladesh (AIUB)
+- 💻 Currently developing my skills in modern web development
+- 🤖 Exploring AI-powered applications and automation
+- 🧠 Naturally curious and always asking "Why does this work?"
+- 🛠️ I learn best by building real projects, debugging problems, and experimenting
+- 🚀 Interested in software engineering, product development, and entrepreneurship
+- 🎯 Long-term goal: become a strong software engineer and build useful technology products
 
 ---
 
-## 🚀 Featured Project
+## 🔭 Currently Working On
 
 ### 🏗️ RenoCalcHub
 
-A web-based platform focused on providing useful calculators and tools.
+A web-based collection of practical construction calculators and tools.
 
-🔗 **Repository:** <a href="https://github.com/Md-Rifat-Al-Faisal/RenoCalcHub">View RenoCalcHub</a>
+I'm using this project to improve my understanding of:
 
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/md-rifat-al-faisal-332426201" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-
-<a href="https://fb.com/rifat.alfaisal" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-</a>
-
-<a href="https://discord.com/users/848991540709687377" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
-</a>
-</p>
+- Real-world problem solving
+- JavaScript and dynamic interfaces
+- Search and user experience
+- Technical SEO
+- Building and maintaining a complete web product
 
 ---
 
-## 🛠️ Languages & Tools
+## 🌱 Currently Learning
 
-<p align="left">
+**React • TypeScript • Modern JavaScript • Web Development**
 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-</a>
-
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-</a>
-
-<a href="https://react.dev/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-</a>
-
-<a href="https://www.java.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-</a>
-
-<a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-</a>
-
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-</a>
-
-</p>
+I'm currently focused on strengthening my fundamentals and learning how to build cleaner, more maintainable and scalable applications.
 
 ---
 
-## 📊 GitHub Stats
+## 🧰 Languages & Technologies
+
+### Programming Languages
 
 <p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-rifat-al-faisal" alt="GitHub Streak" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
 </p>
 
+### Web Development
+
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Md-Rifat-Al-Faisal&show_icons=true&hide_border=true" alt="Faisal's GitHub stats" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/>
 </p>
+
+### Tools & Frameworks
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40" alt=".NET"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🏗️ RenoCalcHub
+A web-based collection of practical construction calculators and tools, built to solve real-world calculation problems through a simple interface.
+
+**Tech:** HTML • CSS • JavaScript • Tailwind CSS • Fuse.js • Python
+
+👉 **Repository:** YOUR_RENOCALCHUB_REPOSITORY_LINK  
+👉 **Live:** YOUR_RENOCALCHUB_LIVE_LINK
+
+---
+
+### 🤖 SudoTag
+An AI-powered desktop application that automates image metadata generation and embeds SEO-focused titles, descriptions, and keywords directly into image files.
+
+**Tech:** Electron • React • TypeScript • Node.js • Gemini API • ExifTool
+
+👉 **Repository:** YOUR_SUDOTAG_REPOSITORY_LINK
+
+---
+
+### 🖼️ ArtScale Pro
+A desktop workflow automation tool for batch image upscaling, compression, dimension management, and metadata preservation.
+
+**Tech:** React • Electron • Python • Real-ESRGAN • NCNN • Pillow
+
+👉 **Repository:** YOUR_ARTSCALE_REPOSITORY_LINK
+
+---
+
+## 🎯 What I'm Interested In
+
+- Web Development
+- AI-Powered Applications
+- Automation
+- Problem Solving
+- Software Architecture
+- Building Useful Products
+- Entrepreneurship
+
+---
+
+## 🤝 Connect With Me
+
+<p>
+<a href="YOUR_LINKEDIN_LINK">
+<img src="YOUR_LINKEDIN_ICON" width="40" height="40" alt="LinkedIn"/>
+</a>
+
+<a href="YOUR_DISCORD_LINK">
+<img src="YOUR_DISCORD_ICON" width="40" height="40" alt="Discord"/>
+</a>
+</p>
+
+---
+
+## 📊 GitHub Activity
+
+YOUR_EXISTING_GITHUB_STATS_SECTION
 
 ---
 
 <p align="center">
-💡 <i>Curious by nature. Learning by building. Always asking why.</i>
+<i>"I learn best by building, breaking, fixing, and building again."</i>
 </p>
