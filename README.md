@@ -1,3 +1,12 @@
+
+<p align="center">
+  <img 
+    src="./assets/github-banner.png" 
+    alt="Faisal - CSE Student, Web Developer, AI & Automation"
+    width="100%"
+  />
+</p>
+
 <h1 align="center">Hi 👋, I'm Faisal</h1>
 
 <h3 align="center">
