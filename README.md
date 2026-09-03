@@ -107,19 +107,13 @@ A desktop workflow automation and compliance engine for digital artists. It hand
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Md-Rifat-Al-Faisal&show_icons=true&hide_border=true&rank_icon=github" alt="Faisal's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Md-Rifat-Al-Faisal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Faisal's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Md-Rifat-Al-Faisal&hide_border=true" alt="Faisal's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Md-Rifat-Al-Faisal&theme=tokyonight&hide_border=true" alt="Faisal's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Rifat-Al-Faisal&layout=compact&hide_border=true" alt="Faisal's Top Languages" />
-</p>
-
----
-
-<p align="center">
-  <i>"I learn best by building, breaking, fixing, and building again."</i>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Rifat-Al-Faisal&layout=compact&theme=tokyonight&hide_border=true" alt="Faisal's Top Languages" />
 </p>
