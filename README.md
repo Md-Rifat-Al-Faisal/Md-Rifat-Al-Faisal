@@ -16,35 +16,30 @@
   <strong>CSE Student • Web Developer in Progress • Exploring AI & Automation</strong>
 </p>
 
-<p align="center">
-  I enjoy building real-world projects, solving problems, and understanding how things work behind the scenes.
-</p>
-
 ---
 
 ## 🧑‍💻 About Me
 
-I'm a Computer Science and Engineering student at
-<strong>American International University-Bangladesh (AIUB)</strong>.
+<img align="right" width="350" src="./assets/cartoon-desk.png" alt="Faisal coding at desk illustration" />
 
-My interest in programming became much stronger when I started building projects independently. 
-Instead of only learning programming academically, I started using it to solve problems I actually cared about.
+I'm a 7th-semester Computer Science and Engineering student at **American International University-Bangladesh (AIUB)**. 
 
-That experience changed the way I look at software.
+I chose CSE because of an early fascination with technology. Looking at the analytics of the world's most successful innovators, I noticed a pattern: an engineering background. Engineering doesn't just teach you syntax; it builds relentless problem-solving capabilities and trains the brain to attack real-life problems from multiple angles. 
 
-I became more interested in questions like:
+My university courses—like **Data Structures, C++, Java, and C#**—laid a strong logical foundation. However, my passion truly ignited when I started "vibe coding" and building independent projects. This changed the way I look at software entirely. Instead of just writing scripts, I started engineering full systems to solve painful real-world bottlenecks.
+
+Programming has fundamentally changed how I operate in real life. It taught me how to break massive, overwhelming challenges into small, executable steps. It built my resilience—when you debug dozens of iterations of a failing app, you stop panicking when things go wrong in life and start looking for the root cause. I became more interested in questions like:
 
 > **Why does this work? Why does it break? How do these different parts communicate? And how can I make the whole system better?**
 
-I enjoy learning through building, debugging, experimenting, and trying to understand the bigger picture behind a piece of software.
+### 🎯 Where I'm Heading
+My immediate goal is to secure a remote software engineering role in a first-world country like the USA. I want to immerse myself in the most advanced tech ecosystems to learn, grow, and stay ahead of the curve. Long-term, I plan to start my own tech company, bringing cutting-edge and emerging tech concepts to Bangladesh before expanding globally.
 
 ### 🔭 Currently
-
-- 🌱 Learning and strengthening my skills in **React, TypeScript & modern web development**
-- 🛠️ Working on **RenoCalcHub** and improving my understanding of real-world software development
-- 🤖 Exploring **AI-powered applications and automation**
-- 🧠 Improving my **problem-solving and software engineering skills**
-- 🚀 Learning how to turn ideas into useful and practical software products
+- 🌱 Strengthening my skills in **React, TypeScript & modern web development** (HTML, CSS, JS).
+- 🛠️ Managing **RenoCalcHub** and improving my understanding of real-world software architecture.
+- 🤖 Engineering **AI-powered applications** and complex workflow automations.
+- 🚀 Learning how large tech enterprises delegate workloads by building multi-component systems.
 
 ---
 
@@ -61,25 +56,17 @@ I enjoy learning through building, debugging, experimenting, and trying to under
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" />
 </p>
 
-### Web Development
+### Web Development & Tools
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript" />
-</p>
-
-### Tools & Technologies
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="45" height="45" alt="Electron" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="45" height="45" alt=".NET" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" />
 </p>
 
 ---
@@ -87,68 +74,18 @@ I enjoy learning through building, debugging, experimenting, and trying to under
 ## 🚀 Featured Projects
 
 ### 🧮 RenoCalcHub
+A lightweight, lightning-fast Static Application featuring a collection of 27 practical calculators designed around real-world renovation and construction problems. 
+*   **What I learned:** This project marked my shift from "Creation Mode" to "Leverage Mode." Instead of acting like an employee constantly writing code, I learned to think like an owner—using technical SEO, automated content generation, and structured data to make my tools work for me while I sleep.
+*   🔗 **Repository:** [RenoCalcHub](https://github.com/Md-Rifat-Al-Faisal/RenoCalcHub)
 
-A web-based collection of practical calculators and tools designed around real-world renovation and construction problems.
+### 🤖 AI & Enterprise-Level Automation Projects
+I build production-grade, local-first applications to solve specific professional bottlenecks. These projects pushed me to think like a Senior Systems Developer:
 
-**Built with:** HTML • CSS • JavaScript • Tailwind CSS • Fuse.js • Python
+- **SudoTag** — An automated, local-first desktop app for stock photographers. It bypasses API cost barriers using an enterprise-level Round-Robin Load Balancer to inject AI-generated metadata directly into Exif formatting.
+- **Gemini Destroyer** — A resilient, multi-model AI pipeline desktop app that autonomously detects and removes watermarks. It taught me Systems-Level thinking—when the GPU deadlocked between YOLO and LaMa models, I learned to engineer around hardware roadblocks rather than just staring at code.
+- **ArtScale Pro** — An automated workflow and compliance engine for digital artists. It integrates complex C++ NCNN AI binaries with a React/Electron frontend via Python orchestration.
 
-**What I explored:**
-- Dynamic UI generation with JavaScript
-- Real-world mathematical calculations
-- Search and filtering
-- Technical SEO and structured data
-- Automated content and page generation
-- Deployment and static web architecture
-
-🔗 **Repository:** [RenoCalcHub](https://github.com/Md-Rifat-Al-Faisal/RenoCalcHub)
-
----
-
-### 🤖 AI & Automation Projects
-
-I've also built several independent applications while exploring how AI can be connected with traditional software.
-
-Some of my experiments include:
-
-- **SudoTag** — AI-powered image metadata generation and file automation
-- **ArtScale Pro** — batch image upscaling, compression and marketplace compliance workflow
-- **Gemini Destroyer** — AI-assisted image processing and artifact removal
-
-These projects helped me move beyond simply writing individual functions and start thinking about **systems, workflows, performance, failures, and user requirements**.
-
----
-
-## 🧠 How I Learn
-
-I learn best by building.
-
-When something breaks, I usually don't want to simply replace the code with a working solution. I want to understand **why it broke** and what is happening underneath.
-
-That has gradually pushed me from:
-
-**"How do I write this code?"**
-
-toward:
-
-**"How should this system work?"**
-
-I'm particularly interested in:
-
-- Problem Solving
-- Software Architecture
-- Web Development
-- AI-powered Applications
-- Automation
-- System Design
-- Building Useful Products
-
----
-
-## 🎯 Where I'm Heading
-
-My current goal is to become a strong **software engineer and web developer** who can work on real-world products and solve meaningful technical problems.
-
-In the long term, I want to work with international teams, continue learning from advanced software ecosystems, and eventually build technology products of my own.
+These projects helped me move beyond simply writing individual functions and start thinking about **systems, workflows, hardware performance, and real user requirements**.
 
 ---
 
