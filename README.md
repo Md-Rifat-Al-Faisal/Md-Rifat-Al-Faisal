@@ -130,11 +130,11 @@ A desktop workflow automation tool for batch image upscaling, compression, dimen
 ## 🤝 Connect With Me
 
 <p>
-<a href="YOUR_LINKEDIN_LINK">
+<a href="https://www.linkedin.com/in/md-rifat-al-faisal-332426201/">
 <img src="YOUR_LINKEDIN_ICON" width="40" height="40" alt="LinkedIn"/>
 </a>
 
-<a href="YOUR_DISCORD_LINK">
+<a href="https://discord.com/users/848991540709687377">
 <img src="YOUR_DISCORD_ICON" width="40" height="40" alt="Discord"/>
 </a>
 </p>
