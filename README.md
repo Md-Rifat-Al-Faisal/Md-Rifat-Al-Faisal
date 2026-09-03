@@ -1,3 +1,4 @@
+<!-- ======================= BANNER ======================= -->
 
 <p align="center">
   <img 
@@ -7,51 +8,36 @@
   />
 </p>
 
+<!-- ======================= INTRO ======================= -->
+
 <h1 align="center">Hi 👋, I'm Faisal</h1>
 
-<h3 align="center">
-CSE Student • Web Developer in Progress • Exploring AI & Automation
-</h3>
+<p align="center">
+  <strong>CSE Student • Web Developer in Progress • Exploring AI & Automation</strong>
+</p>
 
 <p align="center">
-I enjoy building things, solving problems, and understanding how software works behind the scenes.
+  I enjoy building real-world projects, solving problems, and understanding how complex systems work behind the scenes.
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-- 🎓 7th Semester CSE student at American International University-Bangladesh (AIUB)
-- 💻 Currently developing my skills in modern web development
-- 🤖 Exploring AI-powered applications and automation
-- 🧠 Naturally curious and always asking "Why does this work?"
-- 🛠️ I learn best by building real projects, debugging problems, and experimenting
-- 🚀 Interested in software engineering, product development, and entrepreneurship
-- 🎯 Long-term goal: become a strong software engineer and build useful technology products
+<img align="right" width="350" src="./assets/cartoon-desk.png" alt="Faisal coding at desk illustration" />
+
+- 🎓 **7th Semester CSE student** at American International University-Bangladesh (AIUB).
+- 🧠 **Naturally curious:** I chose engineering because it trains the brain to attack real-life problems from multiple angles. I'm always asking, *"Why does this work? Why does it break? How can I make the system better?"*
+- 🛠️ **Builder mindset:** I learn best by building, breaking, and debugging. Building independent "vibe coding" projects shifted my mindset from just writing scripts to engineering full systems that solve painful bottlenecks.
+- 🚀 **Goals:** My immediate aim is to secure a remote software engineering role in a first-world country to immerse myself in advanced tech ecosystems. Long-term, I plan to start my own tech company.
 
 ---
 
 ## 🔭 Currently Working On
 
-### 🏗️ RenoCalcHub
-
-A web-based collection of practical construction calculators and tools.
-
-I'm using this project to improve my understanding of:
-
-- Real-world problem solving
-- JavaScript and dynamic interfaces
-- Search and user experience
-- Technical SEO
-- Building and maintaining a complete web product
-
----
-
-## 🌱 Currently Learning
-
-**React • TypeScript • Modern JavaScript • Web Development**
-
-I'm currently focused on strengthening my fundamentals and learning how to build cleaner, more maintainable and scalable applications.
+- 🌱 Strengthening my skills in **React, TypeScript & modern web development**.
+- 🏗️ Managing **RenoCalcHub**, shifting from "Creation Mode" to "Leverage Mode" by focusing on technical SEO and automated content generation to make the tool work for me while I sleep.
+- 🤖 Engineering **AI-powered applications** and complex workflow automations to understand how large tech enterprises delegate workloads.
 
 ---
 
@@ -59,28 +45,26 @@ I'm currently focused on strengthening my fundamentals and learning how to build
 
 ### Programming Languages
 
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" />
 </p>
 
-### Web Development
+### Web Development & Tools
 
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/>
-</p>
-
-### Tools & Frameworks
-
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40" alt=".NET"/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="45" height="45" alt="Electron" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" />
 </p>
 
 ---
@@ -88,65 +72,55 @@ I'm currently focused on strengthening my fundamentals and learning how to build
 ## 🚀 Featured Projects
 
 ### 🏗️ RenoCalcHub
-A web-based collection of practical construction calculators and tools, built to solve real-world calculation problems through a simple interface.
-
-**Tech:** HTML • CSS • JavaScript • Tailwind CSS • Fuse.js • Python
-
-👉 **Repository:** YOUR_RENOCALCHUB_REPOSITORY_LINK  
-👉 **Live:** YOUR_RENOCALCHUB_LIVE_LINK
-
----
+A lightweight, lightning-fast web-based collection of 27 practical construction calculators. Built from the ground up without heavy CMS platforms to solve real-world calculation problems.
+*   **Tech:** HTML • CSS • JavaScript • Tailwind CSS • Fuse.js • Python
+*   👉 **Repository:** [RenoCalcHub Repo](https://github.com/Md-Rifat-Al-Faisal/RenoCalcHub)
+*   👉 **Live:** [renocalchub.com](https://renocalchub.com)
 
 ### 🤖 SudoTag
-An AI-powered desktop application that automates image metadata generation and embeds SEO-focused titles, descriptions, and keywords directly into image files.
-
-**Tech:** Electron • React • TypeScript • Node.js • Gemini API • ExifTool
-
-👉 **Repository:** YOUR_SUDOTAG_REPOSITORY_LINK
-
----
+An AI-powered desktop application that automates image metadata generation. It bypasses API cost barriers using an enterprise-level Round-Robin Load Balancer to inject AI-generated metadata directly into Exif formatting.
+*   **Tech:** Electron • React • TypeScript • Node.js • Gemini API • ExifTool
+*   👉 **Repository:** [SudoTag Repo](https://github.com/Md-Rifat-Al-Faisal/SudoTag)
 
 ### 🖼️ ArtScale Pro
-A desktop workflow automation tool for batch image upscaling, compression, dimension management, and metadata preservation.
-
-**Tech:** React • Electron • Python • Real-ESRGAN • NCNN • Pillow
-
-👉 **Repository:** YOUR_ARTSCALE_REPOSITORY_LINK
-
----
-
-## 🎯 What I'm Interested In
-
-- Web Development
-- AI-Powered Applications
-- Automation
-- Problem Solving
-- Software Architecture
-- Building Useful Products
-- Entrepreneurship
+A desktop workflow automation and compliance engine for digital artists. It handles batch image upscaling, adaptive compression, dimension enforcement, and metadata preservation in a single pipeline.
+*   **Tech:** React • Electron • Python • Real-ESRGAN • NCNN • Pillow
+*   👉 **Repository:** [ArtScale Pro Repo](https://github.com/Md-Rifat-Al-Faisal/ArtScale-Pro)
 
 ---
 
 ## 🤝 Connect With Me
 
-<p>
-<a href="https://www.linkedin.com/in/md-rifat-al-faisal-332426201/">
-<img src="YOUR_LINKEDIN_ICON" width="40" height="40" alt="LinkedIn"/>
-</a>
-
-<a href="https://discord.com/users/848991540709687377">
-<img src="YOUR_DISCORD_ICON" width="40" height="40" alt="Discord"/>
-</a>
+<p align="left">
+  <a href="https://linkedin.com/in/md-rifat-al-faisal-332426201" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="40" />
+  </a>
+  <a href="https://facebook.com/rifat.alfaisal" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="35" width="40" />
+  </a>
+  <a href="https://discord.com/users/848991540709687377" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="35" width="40" />
+  </a>
 </p>
 
 ---
 
 ## 📊 GitHub Activity
 
-YOUR_EXISTING_GITHUB_STATS_SECTION
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Md-Rifat-Al-Faisal&show_icons=true&hide_border=true&rank_icon=github" alt="Faisal's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Md-Rifat-Al-Faisal&hide_border=true" alt="Faisal's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Rifat-Al-Faisal&layout=compact&hide_border=true" alt="Faisal's Top Languages" />
+</p>
 
 ---
 
 <p align="center">
-<i>"I learn best by building, breaking, fixing, and building again."</i>
+  <i>"I learn best by building, breaking, fixing, and building again."</i>
 </p>
