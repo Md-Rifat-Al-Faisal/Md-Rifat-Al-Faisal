@@ -27,9 +27,8 @@
 <img align="right" width="350" src="./assets/cartoon-desk.png" alt="Faisal coding at desk illustration" />
 
 - 🎓 **7th Semester CSE student** at American International University-Bangladesh (AIUB).
-- 🧠 **Naturally curious:** I chose engineering because it trains the brain to attack real-life problems from multiple angles. I'm always asking, *"Why does this work? Why does it break? How can I make the system better?"*
-- 🛠️ **Builder mindset:** I learn best by building, breaking, and debugging. Building independent "vibe coding" projects shifted my mindset from just writing scripts to engineering full systems that solve painful bottlenecks.
-- 🚀 **Goals:** My immediate aim is to secure a remote software engineering role in a first-world country to immerse myself in advanced tech ecosystems. Long-term, I plan to start my own tech company.
+- 🧠 **Naturally curious:** I chose engineering because it trains the brain to attack real-life problems from multiple angles.
+- 🛠️ **Builder mindset:** Building independent "vibe coding" projects shifted my mindset from just writing scripts to engineering full systems that solve painful bottlenecks.
 
 ---
 
