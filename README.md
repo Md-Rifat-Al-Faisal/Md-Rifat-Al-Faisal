@@ -140,15 +140,15 @@ A desktop workflow automation tool for batch image upscaling, compression, dimen
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Md-Rifat-Al-Faisal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Faisal's GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Md-Rifat-Al-Faisal&theme=tokyonight&hide_border=true" alt="Faisal's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Rifat-Al-Faisal&layout=compact&theme=tokyonight&hide_border=true" alt="Faisal's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Rifat-Al-Faisal&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Faisal's Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Md-Rifat-Al-Faisal&theme=tokyo-night&hide_border=true&bg_color=1a1b27&v=1" alt="Faisal's Contribution Graph" />
 </p>
 
 ---
